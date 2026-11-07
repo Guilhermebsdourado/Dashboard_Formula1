@@ -14,14 +14,17 @@
 </p>
 
 <p align="center">
-  <img src="images/redbull_girando.gif" alt="Carro de F1 girando" width="400">
+    <img src="Carro%203d/redbull_girando%20(4).gif" alt="Carro de F1 girando" width="400">
+</p>
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNzUzYjlkMDktZjQzMy00ZmU0LTljZWUtNjBlNTQ4NzZjOGU2IiwidCI6IjgzZTljYmEzLThmZmMtNDYyZi1iYTJlLTBjZWNlYzIxOWRjZSJ9">
+    <img src="https://img.shields.io/badge/▶%20Acessar%20o%20dashboard%20interativo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Acessar o dashboard interativo">
+  </a>
 </p>
 
----
+### Português
 
-## Português
-
-### Visão geral do projeto
+# Sobre esse projeto
 Dashboard interativo em **Power BI** sobre a **Fórmula 1 de 1980 até a temporada atual**: pilotos, equipes, campeonatos, circuitos e pit stops.
 
 O histórico vem de **arquivos CSV** hospedados no repositório [f1-powerbi-dados](https://github.com/Guilhermebsdourado/f1-powerbi-dados) e a temporada atual vem da **API pública Jolpica F1**. A cada atualização agendada, as corridas novas entram sozinhas no relatório.
@@ -86,11 +89,15 @@ O histórico vem de **arquivos CSV** hospedados no repositório [f1-powerbi-dado
 2. Abra em um **Power BI Desktop atualizado**.
 3. Os dados já estão salvos no arquivo. Para atualizar, clique em **Atualizar** e, se pedir credenciais, escolha **Anônimo**.
 
----
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNzUzYjlkMDktZjQzMy00ZmU0LTljZWUtNjBlNTQ4NzZjOGU2IiwidCI6IjgzZTljYmEzLThmZmMtNDYyZi1iYTJlLTBjZWNlYzIxOWRjZSJ9">
+    <img src="https://img.shields.io/badge/▶%20Acessar%20o%20dashboard%20interativo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Acessar o dashboard interativo">
+  </a>
+</p>
 
-## English
+### English
 
-### Project Overview
+# Project Overview
 An interactive **Power BI** dashboard covering **Formula 1 from 1980 to the current season**: drivers, teams, championships, circuits and pit stops.
 
 Historical data comes from **CSV files** hosted in the [f1-powerbi-dados](https://github.com/Guilhermebsdourado/f1-powerbi-dados) repository, and the current season comes from the **public Jolpica F1 API**. On every scheduled refresh, new races show up automatically.
@@ -111,7 +118,9 @@ Historical data comes from **CSV files** hosted in the [f1-powerbi-dados](https:
 ---
 
 ### 1. Overview
-
+<p align="center">
+ <img width="1429" height="806" alt="{09E2D106-CAAC-4EA2-AE07-800B2CBA878E}" src="https://github.com/user-attachments/assets/aba88c93-6a3d-4488-a8e3-077a71772458" />
+</p>
 **Question this page answers:** *how has Formula 1 changed since 1980, and who dominated each era?*
 
 **What's on the page:**
@@ -151,9 +160,8 @@ Historical data comes from **CSV files** hosted in the [f1-powerbi-dados](https:
 2. Open it in an **up-to-date Power BI Desktop**.
 3. The data is already stored in the file. To update it, click **Refresh** and choose **Anonymous** if asked for credentials.
 
----
-
 <p align="center">
-  Feito por <b>Guilherme Barbosa</b> •
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">LinkedIn</a>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNzUzYjlkMDktZjQzMy00ZmU0LTljZWUtNjBlNTQ4NzZjOGU2IiwidCI6IjgzZTljYmEzLThmZmMtNDYyZi1iYTJlLTBjZWNlYzIxOWRjZSJ9">
+    <img src="https://img.shields.io/badge/▶%20Acessar%20o%20dashboard%20interativo-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Acessar o dashboard interativo">
+  </a>
 </p>
